@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'YCCodeKit_Example' do
+  pod 'YCCodeKit', :path => '../'
+
+  target 'YCCodeKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

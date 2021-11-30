@@ -1,0 +1,16 @@
+PODS:
+  - YCCodeKit (0.1.0)
+
+DEPENDENCIES:
+  - YCCodeKit (from `../`)
+
+EXTERNAL SOURCES:
+  YCCodeKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YCCodeKit: 9d860a3be3eafd6eb3d3e16eac46b5f12fd27c38
+
+PODFILE CHECKSUM: b8fb1cf2538a17f4b4186e247689cae6888a34e2
+
+COCOAPODS: 1.11.2

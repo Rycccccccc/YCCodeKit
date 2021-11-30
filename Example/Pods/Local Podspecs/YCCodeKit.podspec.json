@@ -1,0 +1,22 @@
+{
+  "name": "YCCodeKit",
+  "version": "0.1.0",
+  "summary": "A short description of YCCodeKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/renyichun/YCCodeKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "renyichun": "787725121@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/renyichun/YCCodeKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YCCodeKit/Classes/**/*"
+}
